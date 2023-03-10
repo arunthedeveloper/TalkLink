@@ -2,9 +2,10 @@
   "name": "sem6project",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "nodemon server"
-  },
+     "scripts": {
+            "start": "node server",
+            "dev": "nodemon server"
+         },
   "author": "Gupta Arun Raju",
   "license": "ISC",
   "dependencies": {
